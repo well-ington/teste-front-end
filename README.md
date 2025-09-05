@@ -1,4 +1,4 @@
-# Teste-front-end
+# Teste para Front-end
 
 Utilizando ReactJS, crie uma página simples com as seguintes funcionalidades:
 
